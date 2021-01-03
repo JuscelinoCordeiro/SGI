@@ -1,4 +1,7 @@
 <?php
+# ARQUIVO EDITADO PARA TESTE DE COMMIT
+# DATA: 01/01/2019
+
     session_start();
     require_once './classes/DB.class.php';
     require_once 'classes/Login.class.php';

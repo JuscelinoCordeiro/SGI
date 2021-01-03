@@ -1,4 +1,7 @@
-
+<?php
+# ARQUIVO EDITADO PARA TESTE DE COMMIT
+# DATA: 01/01/2019
+?>
 <html>
     <head>
         <meta charset="UTF-8">
